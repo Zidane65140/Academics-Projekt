@@ -12,4 +12,4 @@ Akademisches Projekt zur Untersuchung und Konzeption KI-gestützter Ansätze im 
 
 Akademische Seminararbeit zur Untersuchung des Einsatzes künstlicher Intelligenz bei der Priorisierung von Hilfsprojekten.
 
-**Dokumentation:** [KI-gestützte Priorisierung von Hilfsprojekten (PDF)](./Seminararbeit KI-gestützte Priorisierung von Hilfsprojekten.pdf).
+**Dokumentation:** [KI-gestützte Priorisierung von Hilfsprojekten (PDF)](./Seminararbeit%20KI-gest%C3%BCtzte%20Priorisierung%20von%20Hilfsprojekten.pdf)
